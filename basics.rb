@@ -1,3 +1,6 @@
+def question
+
+end
 print "1. "
 puts 4 == 2 * 2
 
